@@ -1,0 +1,66 @@
+.menu{
+  width: 270px;
+  height: 350px;
+
+  margin: auto;
+  margin-top: 150px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+border-radius: 8px;
+}
+h3{
+  text-align: center;
+  position: relative;
+  top: 50px;
+}
+.menu2{
+  position: relative;
+  top: 40px;
+  left: 30px;
+  
+}
+label{
+  font-size: 15px;
+}
+.txt{
+  width: 200px;
+  height: 25px;
+  border-radius: 8px;
+  
+}
+.btn{
+  width: 210px;
+  height: 35px;
+  border-radius: 8px;
+  margin-top: 8px;
+  background-color: blue;
+  color: white;
+  
+}
+.btn1{
+  width: 210px;
+  height: 35px;
+  border-radius: 8px;
+  margin-top: 8px;
+  background-color: gray;
+  color: black;
+  
+}
+h5{
+  text-align: center;
+  position: relative;
+  left: -50px;
+
+}
+.btn1:hover{
+  background-color: green;
+  
+}
+.btn:hover{
+  background-color: green;
+  
+}
+p{
+  text-align: center;
+  position: relative;
+  left: -40px;
+}
